@@ -15,44 +15,54 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="takingInputFromUser.c">
+    <ClCompile Include="arrayReverse\arrayReverse.c">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="find-ASCII-Value-of-character.c">
+    <ClCompile Include="evenOrOdd\evenORodd.c">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="if-else-switch-statements.c">
+    <ClCompile Include="avrageNumber\averageNumber.c">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="reversingChar-min_Max.c">
+    <ClCompile Include="factorialNumber\factorial-number.c">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="loops.c">
+    <ClCompile Include="fibonacciSeries\fibonacciSeries.c">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="factorial-number.c">
+    <ClCompile Include="loops\loops.c">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="fibonacciSeries.c">
+    <ClCompile Include="if-else-switch-statements\if-else-switch-statements.c">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="Palindorme-number.c">
+    <ClCompile Include="stringReverse\StringReverse.c">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="StringReverse.c">
+    <ClCompile Include="find-ASCII-value-of-character\find-ASCII-Value-of-character.c">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="averageNumber.c">
+    <ClCompile Include="PalindormeNumber\Palindorme-number.c">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="evenORodd.c">
+    <ClCompile Include="powerOfNum\powerofNum.c">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="powerofNum.c">
+    <ClCompile Include="reversingCharacterCase\reversingCharacterCase.c">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="arrayReverse.c">
+    <ClCompile Include="userInput\takingInputFromUser.c">
       <Filter>Source Files</Filter>
     </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="resource.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ResourceCompile Include="C-Programming.rc">
+      <Filter>Resource Files</Filter>
+    </ResourceCompile>
   </ItemGroup>
 </Project>
